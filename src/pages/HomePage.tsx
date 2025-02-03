@@ -52,11 +52,7 @@ const HomePage: React.FC = () => {
       <div className="bg-white bg-opacity-90 p-8 rounded-lg shadow-md text-center max-w-md w-full">
         {/* Logo Section */}
         <div className="flex justify-center mb-6">
-          <img
-            src="/src/assets/logo.svg"
-            alt="Company Logo"
-            className="w-24 h-auto"
-          />
+          <img src="/logo.svg" alt="Company Logo" className="w-24 h-auto" />
         </div>
 
         {/* Welcome Section */}
